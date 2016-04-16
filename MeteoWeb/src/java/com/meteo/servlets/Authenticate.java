@@ -5,7 +5,6 @@
  */
 package com.meteo.servlets;
 
-import com.google.gson.Gson;
 import com.meteo.controllers.UserController;
 import com.meteo.models.User;
 import com.meteo.utils.Utils;
