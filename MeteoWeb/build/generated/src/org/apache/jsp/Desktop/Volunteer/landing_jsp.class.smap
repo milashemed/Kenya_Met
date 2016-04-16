@@ -1,0 +1,22 @@
+SMAP
+landing_jsp.java
+JSP
+*S JSP
+*F
++ 0 landing.jsp
+Desktop/Volunteer/landing.jsp
++ 1 DE_sidebar.jsp
+Desktop/Volunteer/../includes/DE_sidebar.jsp
+*L
+5:51
+8,7:54
+14,21:61
+1#1:82
+3,7:84
+9,11:91
+20,2:102,3
+22,5:108
+27,3:114
+29,26:117
+34#0,61:143
+*E

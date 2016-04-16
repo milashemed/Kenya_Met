@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/controllers/EntityService.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/PhoneVerifier.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/utils/validators.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/MainUI.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/controllers/ReadingController.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/controllers/AbstractPersistenceDesktop.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frminitzone.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/models/Station.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/MailSetup.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frmusers.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/meteoadminconsole/MeteoAdminConsole.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/models/UserStation.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/controllers/StationController.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frmlogin.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/StationVerifier.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/models/User.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/validators.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/utils/DateUtils.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/EmailVerifier.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/ServerSetup.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frmmanageuser.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/ForcedListSelectionModel.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/controllers/UserStationController.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/choosers/LocationChooser.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frminituser.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frmpasschange.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/EmptyVerifier.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/utils/Mailer.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/utils/Password.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/ui/frmstations.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/models/ConnectionParameters.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/utils/Diagnostics.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/models/Reading.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/utils/utils.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/models/MailParameters.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/UsernameVerifier.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/validators/PasswordVerifier.java</file>
+            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoAdminConsole/src/com/meteo/controllers/UserController.java</file>
+        </group>
+    </open-files>
+</project-private>
