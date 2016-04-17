@@ -19,6 +19,7 @@ function User(username,password){
         xmlhttp.onreadystatechange = function(){
             if (xmlhttp.status === 200 && xmlhttp.readyState === 4){
                 var response = xmlhttp.responseText
+                alert(response)
                 var obj = JSON.parse(response)
                 if (obj.results == "Empty"){
                     bootbox.alert("<p class=text-danger lead><strong>User Does not Exist, Please Contact Administrator For Registration</strong></p>")

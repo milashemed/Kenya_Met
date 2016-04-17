@@ -3,59 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/modals/changePassword.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Mobile/js/material.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/servlets/Authenticate.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/controllers/EntityService.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Mobile/Material/index.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/models/Reading.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/servlets/Logout.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/index.html</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/modals/loginfrm.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/js/test.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/js/utils.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/js/websockets/websocket.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/Management/style/main.css</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Assets/Style/sidebar.css</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/js/pojos/Readings.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/conf/persistence.xml</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/controllers/AbstractPersistence.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/servlets/changePassword.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/controllers/StationController.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Mobile/js/IOS.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/modals/mailDialog.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/controllers/UserStationController.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/includes/left_side_bar.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/Volunteer/scripts/app.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/js/pojos/User.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/js/Validators.js</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Assets/Style/material.css</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/servlets/addUser.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/models/NewEntity.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/servlets/PersistenceAppListener.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/includes/DE_sidebar.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/modals/readings.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/filters/LoggedInFilter.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/createSession.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/Volunteer/style/main.css</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/websocket/ClientEndPoint.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/WEB-INF/glassfish-resources.xml</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/destroySession.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/servlets/SaveReading.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/logout.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/Volunteer/landing.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/includes/toolbar.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/controllers/UserController.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/contacts.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/controllers/ReadingController.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/index.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/models/ConnectionParameters.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/web/Desktop/Management/landing.jsp</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/websocket/RealtimeWebsocket.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/filters/AuthenticationFilter.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/models/Station.java</file>
-            <file>file:/C:/Users/SALIM/Documents/NetBeansProjects/MeteoWeb/src/java/com/meteo/models/User.java</file>
+            <file>file:/home/shemed/projects/meteo/Kenya_Met/MeteoWeb/web/js/pojos/User.js</file>
+            <file>file:/home/shemed/projects/meteo/Kenya_Met/MeteoWeb/src/java/com/meteo/servlets/Authenticate.java</file>
         </group>
     </open-files>
 </project-private>
